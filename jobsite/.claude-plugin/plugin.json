@@ -1,0 +1,26 @@
+{
+  "name": "jobsite",
+  "version": "0.2.0",
+  "description": "Run your construction or home-services company from Claude: what needs you today, safety and OSHA recordability, punch and safety walks, change orders, schedule updates, vendor bills, dispatch, drawings and specs, with drafts you finish in Jobsite.",
+  "author": {
+    "name": "Jobsite",
+    "email": "support@jobsitecerts.com",
+    "url": "https://jobsitecerts.com"
+  },
+  "homepage": "https://jobsitecerts.com/mcp",
+  "privacyPolicyUrl": "https://jobsitecerts.com/privacy",
+  "termsOfServiceUrl": "https://jobsitecerts.com/terms",
+  "supportUrl": "https://jobsitecerts.com/help",
+  "documentationUrl": "https://jobsitecerts.com/mcp",
+  "repository": "https://github.com/ethicalfrei/jobsite-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "construction",
+    "safety",
+    "osha",
+    "field-service",
+    "accounts-payable",
+    "dispatch",
+    "jobsite"
+  ]
+}

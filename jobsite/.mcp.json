@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jobsite": {
+      "type": "http",
+      "url": "https://jobsitecerts.com/api/mcp"
+    }
+  }
+}
