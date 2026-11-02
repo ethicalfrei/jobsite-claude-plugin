@@ -1,9 +1,9 @@
 {
   "name": "jobsite",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Run your construction or home-services company from Claude: what needs you today, safety and OSHA recordability, punch and safety walks, change orders, schedule updates, vendor bills, dispatch, drawings and specs, with drafts you finish in Jobsite.",
   "author": {
-    "name": "Jobsite",
+    "name": "Jobsite LLC",
     "email": "support@jobsitecerts.com",
     "url": "https://jobsitecerts.com"
   },

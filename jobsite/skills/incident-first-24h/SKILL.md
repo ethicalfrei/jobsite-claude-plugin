@@ -11,8 +11,9 @@ description: Walk an injury or near miss through Jobsite's OSHA 1904 recordabili
 4. If they ask about a rule it cites, quote it with `search_law_corpus`.
 5. Check `list_incidents` so you don't record the same event twice.
 6. **A near miss or a first-aid case:** offer to record the first report. Call `report_incident` with
-   `dry_run: true` (what happened, when, where, the worker if one was involved, and the care given), read it
-   back, and record it when the person agrees. Give its link and write id. A person finishes it in Jobsite
+   `dry_run: true` (what happened, where, the worker if one was involved, and the care given), read it back,
+   and record it when the person agrees. For when it happened, give how many minutes ago ("an hour ago" is
+   60), or leave the time out if it just happened; don't make up a clock time. Give its link and write id. A person finishes it in Jobsite
    with photos, witnesses and the investigation. `undo_write` removes it while nobody has touched it.
 7. **Anything beyond first aid** (medical treatment, days away, restricted duty, hospitalization, a death):
    don't record it here. `report_incident` refuses those on purpose, because recording one in Jobsite assigns
