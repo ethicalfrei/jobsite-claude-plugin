@@ -17,7 +17,8 @@ description: Turn a spoken or typed end-of-day recap (and photos) into the job's
      name as the schedule shows it, and `mark` (`started` / `complete`) or a percent. If it moves dates, read
      back any later tasks the preview says would now overlap: those are cascaded in Jobsite's schedule, not
      here.
-   - **Safety observations** from the day: `log_safety_observation`, one per observation.
+   - **Safety observations** from the day: `log_safety_observation`, one per observation, with any photo of it
+     the person shared (in photos — the image itself, never a link).
    Make each one only when the person agrees, and give its link and write id.
 
 The log stays unsigned. A person reviews and signs it in Jobsite.

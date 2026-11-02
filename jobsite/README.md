@@ -35,6 +35,10 @@ drafts work for you to finish in Jobsite.
 - Every change can be previewed first (`dry_run`) and most can be undone (`undo_write`).
 - Drafts (bills, estimates, daily logs, change orders, first incident reports) are finished by a person
   in Jobsite. A change order is never submitted or sent from Claude.
+- Photos you show Claude can go on the punch item, safety observation or incident it creates, stored privately
+  in your Jobsite account.
+- An injury beyond first aid is filed only after Claude tells you what filing does in Jobsite (refresher
+  training, any training hold, OSHA recordability, any report-to-OSHA deadline) and you say yes — every time.
 - It never pays anyone, runs or releases a pay run, sends anything to a customer, vendor or GC, deletes
   workers, changes permission roles, or overrides certifications.
 - Compliance answers (OSHA recordability, who is cleared for a task) are computed by Jobsite from the
